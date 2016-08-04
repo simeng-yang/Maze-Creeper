@@ -1,7 +1,5 @@
 /*
 Name: Simeng Yang
-Date: April 27, 2016
-Course Info: ICS4U, Unit 8 - Search Algorithms, Mr. M. Trink
 
 Description:
 For a maze loaded from an external text-file, this program will show the sequence of positions
